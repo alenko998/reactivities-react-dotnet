@@ -15,3 +15,4 @@
 /Users/macbookair/Desktop/Reactivities/Application/obj/Debug/net10.0/refint/Application.dll
 /Users/macbookair/Desktop/Reactivities/Application/obj/Debug/net10.0/Application.pdb
 /Users/macbookair/Desktop/Reactivities/Application/obj/Debug/net10.0/ref/Application.dll
+/Users/macbookair/Desktop/Reactivities/Application/obj/Debug/net10.0/Application.sourcelink.json

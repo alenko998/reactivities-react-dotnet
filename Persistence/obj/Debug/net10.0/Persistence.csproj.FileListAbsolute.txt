@@ -13,3 +13,4 @@
 /Users/macbookair/Desktop/Reactivities/Persistence/obj/Debug/net10.0/refint/Persistence.dll
 /Users/macbookair/Desktop/Reactivities/Persistence/obj/Debug/net10.0/Persistence.pdb
 /Users/macbookair/Desktop/Reactivities/Persistence/obj/Debug/net10.0/ref/Persistence.dll
+/Users/macbookair/Desktop/Reactivities/Persistence/obj/Debug/net10.0/Persistence.sourcelink.json
