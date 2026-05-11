@@ -12,6 +12,7 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 });
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+builder.Services.AddCors();
 
 var app = builder.Build();
 
@@ -20,6 +21,8 @@ if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
 }
+
+app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000"));
 
 app.UseHttpsRedirection();
 
