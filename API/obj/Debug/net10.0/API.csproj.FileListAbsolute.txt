@@ -216,3 +216,5 @@
 /Users/macbookair/Desktop/Reactivities/API/bin/Debug/net10.0/MediatR.dll
 /Users/macbookair/Desktop/Reactivities/API/bin/Debug/net10.0/MediatR.Contracts.dll
 /Users/macbookair/Desktop/Reactivities/API/bin/Debug/net10.0/AutoMapper.dll
+/Users/macbookair/Desktop/Reactivities/API/bin/Debug/net10.0/FluentValidation.dll
+/Users/macbookair/Desktop/Reactivities/API/bin/Debug/net10.0/FluentValidation.DependencyInjectionExtensions.dll
