@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "V/kyDvSSK5g=",
+  "dgSpecHash": "XiS5/1+5rbU=",
   "success": true,
   "projectFilePath": "/Users/macbookair/Desktop/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,9 @@
     "/Users/macbookair/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.11.0/fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "/Users/macbookair/.nuget/packages/mediatr/12.5.0/mediatr.12.5.0.nupkg.sha512",
     "/Users/macbookair/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.aspnetcore.cryptography.internal/10.0.0/microsoft.aspnetcore.cryptography.internal.10.0.0.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/10.0.0/microsoft.aspnetcore.cryptography.keyderivation.10.0.0.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/10.0.0/microsoft.aspnetcore.identity.entityframeworkcore.10.0.0.nupkg.sha512",
     "/Users/macbookair/.nuget/packages/microsoft.data.sqlite.core/10.0.0/microsoft.data.sqlite.core.10.0.0.nupkg.sha512",
     "/Users/macbookair/.nuget/packages/microsoft.entityframeworkcore/10.0.0/microsoft.entityframeworkcore.10.0.0.nupkg.sha512",
     "/Users/macbookair/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.0/microsoft.entityframeworkcore.abstractions.10.0.0.nupkg.sha512",
@@ -22,6 +25,8 @@
     "/Users/macbookair/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.0/microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
     "/Users/macbookair/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
     "/Users/macbookair/.nuget/packages/microsoft.extensions.dependencymodel/10.0.0/microsoft.extensions.dependencymodel.10.0.0.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.extensions.identity.core/10.0.0/microsoft.extensions.identity.core.10.0.0.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.extensions.identity.stores/10.0.0/microsoft.extensions.identity.stores.10.0.0.nupkg.sha512",
     "/Users/macbookair/.nuget/packages/microsoft.extensions.logging/10.0.0/microsoft.extensions.logging.10.0.0.nupkg.sha512",
     "/Users/macbookair/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0/microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
     "/Users/macbookair/.nuget/packages/microsoft.extensions.options/10.0.0/microsoft.extensions.options.10.0.0.nupkg.sha512",

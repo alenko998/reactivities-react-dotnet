@@ -10,3 +10,4 @@
 /Users/macbookair/Desktop/Reactivities/Domain/obj/Debug/net10.0/Domain.pdb
 /Users/macbookair/Desktop/Reactivities/Domain/obj/Debug/net10.0/ref/Domain.dll
 /Users/macbookair/Desktop/Reactivities/Domain/obj/Debug/net10.0/Domain.sourcelink.json
+/Users/macbookair/Desktop/Reactivities/Domain/obj/Debug/net10.0/Domain.csproj.AssemblyReference.cache
