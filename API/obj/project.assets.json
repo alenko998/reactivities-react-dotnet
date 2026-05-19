@@ -18,6 +18,22 @@
           }
         }
       },
+      "CloudinaryDotNet/1.29.1": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/CloudinaryDotNet.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/CloudinaryDotNet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "FluentValidation/11.11.0": {
         "type": "package",
         "compile": {
@@ -1565,7 +1581,10 @@
         },
         "runtime": {
           "bin/placeholder/Application.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Domain/1.0.0": {
         "type": "project",
@@ -1584,7 +1603,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
-          "Application": "1.0.0"
+          "Application": "1.0.0",
+          "CloudinaryDotNet": "1.29.1"
         },
         "compile": {
           "bin/placeholder/Infrastructure.dll": {}
@@ -1635,6 +1655,25 @@
         "lib/net9.0/AutoMapper.xml",
         "lib/netstandard2.0/AutoMapper.dll",
         "lib/netstandard2.0/AutoMapper.xml"
+      ]
+    },
+    "CloudinaryDotNet/1.29.1": {
+      "sha512": "JaV1JhjsvArTu1n7dzawflTGLqyNMGCEmGSNAiIlHOObqoIAh0cKIZOu5stG1CaPFgF3S1jv1Jn+vTmTqUvCNg==",
+      "type": "package",
+      "path": "cloudinarydotnet/1.29.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CloudinaryIcon.png",
+        "README.md",
+        "cloudinarydotnet.1.29.1.nupkg.sha512",
+        "cloudinarydotnet.nuspec",
+        "lib/net452/CloudinaryDotNet.dll",
+        "lib/net452/CloudinaryDotNet.xml",
+        "lib/netstandard1.3/CloudinaryDotNet.dll",
+        "lib/netstandard1.3/CloudinaryDotNet.xml",
+        "lib/netstandard2.0/CloudinaryDotNet.dll",
+        "lib/netstandard2.0/CloudinaryDotNet.xml"
       ]
     },
     "FluentValidation/11.11.0": {
