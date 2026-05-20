@@ -1,8 +1,8 @@
 import { Grid, Typography } from "@mui/material";
-import { useParams } from "react-router";
-import { useProfile } from "../../lib/hooks/useProfile";
 import ProfileHeader from "./ProfileHeader";
 import ProfileContent from "./ProfileContent";
+import { useProfile } from "../../lib/hooks/useProfile";
+import { useParams } from "react-router";
 
 export default function ProfilePage() {
     const { id } = useParams();
@@ -14,7 +14,7 @@ export default function ProfilePage() {
     return (
         <Grid container>
             <Grid size={12}>
-                <ProfileHeader profile={profile} />
+                <ProfileHeader />
                 <ProfileContent />
             </Grid>
         </Grid>
