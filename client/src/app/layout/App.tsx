@@ -12,7 +12,7 @@ function App() {
       {location.pathname === '/' ? <HomePage /> : (
         <>
           <NavBar />
-          <Container maxWidth='xl' sx={{ paddingTop: 8 }}>
+          <Container maxWidth='xl' sx={{ pt: 14 }}>
             <Outlet />
           </Container>
         </>
@@ -20,4 +20,5 @@ function App() {
     </Box>
   )
 }
+
 export default App
